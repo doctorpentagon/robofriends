@@ -1,0 +1,25 @@
+/* body {align-items: center;} */
+.Search {text-align: center;
+    text-transform: translate(X, 180);}
+
+.ask {border-color: rgb(100, 100, 240);
+    padding: 15px;
+    background-color: aqua;
+    z-index: 0.5;
+    color:black;
+    font-size: large;
+    }
+
+    @font-face {
+        font-family: 'SEGA LOGO FONT';
+        font-size: normal ;
+        font-weight: normal;
+        src: local('SEGA LOGO FONT'), url('SEGA.woff'), format('woff');}
+
+    h1 {font-family: 'SEGA LOGO FONT';
+        }
+    
+
+
+    
+    
